@@ -132,6 +132,7 @@ hr {
 }
 
 a {
+  text-decoration: none;
   font-family: 'Roboto Slab', serif;
   margin: 10px 20px;
 
